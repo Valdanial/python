@@ -20,7 +20,7 @@ Hamming - DONE
 
 Gigasecond - DONE
 
-Robot Name
+Robot Name - DONE
 
 Word Encoding
 
