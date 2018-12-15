@@ -14,7 +14,7 @@ List Ops - DONE
 Rational numbers - DONE
 
 
-ETL
+ETL - DONE
 
 Hamming
 
