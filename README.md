@@ -22,7 +22,7 @@ Gigasecond - DONE
 
 Robot Name - DONE
 
-Word Encoding
+Word Encoding - DONE
 
 Yacht - DONE
 
