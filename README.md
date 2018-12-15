@@ -24,7 +24,7 @@ Robot Name - DONE
 
 Word Encoding
 
-Yacht
+Yacht - DONE
 
 
 Linked List
