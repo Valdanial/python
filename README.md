@@ -18,7 +18,7 @@ ETL - DONE
 
 Hamming - DONE
 
-Gigasecond
+Gigasecond - DONE
 
 Robot Name
 
