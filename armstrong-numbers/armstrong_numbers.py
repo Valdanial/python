@@ -1,9 +1,6 @@
 def is_armstrong(number):
-    size = len(str(number))
+    number_str = str(number)
     s = 0
-    n = number
-    while(n != 0):
-        d = n%10
-        s += pow(d, size)
-        n = (n - n%10) / 10
+    for digit in number_str:
+        s += pow(int(digit), len(number_str))
     return (number == s)
