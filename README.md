@@ -1,7 +1,7 @@
 List of exercises. I'll mark them as "DONE" when they are ;)
 
 Hello World - DONE
-Leap
+Leap - DONE
 Difference of squares
 Armstrong Numbers
 
