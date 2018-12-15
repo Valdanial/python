@@ -16,7 +16,7 @@ Rational numbers - DONE
 
 ETL - DONE
 
-Hamming
+Hamming - DONE
 
 Gigasecond
 
