@@ -31,7 +31,7 @@ Linked List - DONE
 
 Robot Simulator - DONE
 
-Rotational Cipher
+Rotational Cipher - DONE
 
 Run Length Encoding - DONE
 
