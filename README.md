@@ -22,18 +22,18 @@ Gigasecond - DONE
 
 Robot Name - DONE
 
-Word Encoding - DONE
+Word Encoding
 
 Yacht - DONE
 
 
-Linked List
+Linked List - DONE
 
 Robot Simulator
 
 Rotational Cipher
 
-Run Length Encoding
+Run Length Encoding - DONE
 
 Say
 
