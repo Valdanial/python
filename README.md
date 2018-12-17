@@ -35,7 +35,7 @@ Rotational Cipher - DONE
 
 Run Length Encoding - DONE
 
-Say
+Say - DONE
 
 
 The exercises come from https://exercism.io
